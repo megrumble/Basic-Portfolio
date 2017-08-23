@@ -5,13 +5,16 @@ header { padding: 20px;
 	background-color:   #bf80ff
 
  }
- #name { color: white;
+ #name { display: block;
+ 		 color: white;
  		background-color:   #400080;
  		font-size: 30px;
  		margin-left: 20px;
  		width: 35%;
 
   }
-img {max-height:50%;
-	  width:auto;}
- #paragraph {float: left;}
+  section {padding: 20px;
+  	margin: 20px;}
+
+#image {float: left;}
+#paragraph {float: left;}
