@@ -9,12 +9,24 @@ header { padding: 20px;
  		 color: white;
  		background-color:   #400080;
  		font-size: 30px;
- 		margin-left: 20px;
  		width: 35%;
 
   }
   section {padding: 20px;
   	margin: 20px;}
-
+ul {list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333}
+    li {float: left;}
+    li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;}
+    li a:hover {
+    background-color: #111;}
 #image {float: left;}
 #paragraph {float: left;}
