@@ -1,4 +1,9 @@
-header {background-color:  #d9b3ff
+body {background-color:  #d9b3ff
 }
-#img {max-height:50%;
+header { padding: 20px;
+	background-color:  #330066;
+	font-size: 30px;
+
+ }
+img {max-height:50%;
 	  width:auto;}
