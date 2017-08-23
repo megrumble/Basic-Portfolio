@@ -1,9 +1,17 @@
-body {background-color:  #d9b3ff
+body {background-color:  #d9b3ff;
+	margin: 20px;
 }
 header { padding: 20px;
-	background-color:  #330066;
-	font-size: 30px;
+	background-color:   #bf80ff
 
  }
+ #name { color: white;
+ 		background-color:   #400080;
+ 		font-size: 30px;
+ 		margin-left: 20px;
+ 		width: 35%;
+
+  }
 img {max-height:50%;
 	  width:auto;}
+ #paragraph {float: left;}
