@@ -39,10 +39,15 @@ ul {list-style-type: none;
     text-decoration: none;}
     li a:hover {
     background-color: #111;}
-img {float: left;
+
+ div {width: 960px;}
+img {float: left;}
+#headshot {
 height: 200px;
 width: 200px;
 padding: 20px;}
+#in {height: 80px;
+width: 80px;}
 p {float: left;
 	padding: 20px;
 }
@@ -51,13 +56,18 @@ article {margin: 20px;
 	position: relative;
 
 			height:500px;
-			width: 500px;
+			width: 65%;
 			border: solid; 
 			 }
-aside { height: 80px;
-	width: 80px;
+
+#left { width: 650px;
+float: left;  }
+#right {
+	width:270px;
+	float: left;
 }
-#left {float: left;}
-#right {float: left;}
+
+
 footer {clear: both;
-text-align: center;}
+text-align: center;
+margin-top: 20px;}
