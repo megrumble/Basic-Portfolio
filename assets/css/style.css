@@ -1,24 +1,29 @@
 body {background-color:  #d9b3ff;
 	margin: 20px;
 }
-header { padding: 20px;
+header { 
 	background-color:   #bf80ff
 
  }
  #name { display: block;
  		 color: white;
  		background-color:   #400080;
- 		font-size: 30px;
- 		width: 35%;
+ 		font-size: 40px;
+ 		text-align: center;
+ 		width: 33.3%; 
 
   }
-  section {padding: 20px;
-  	margin: 20px;}
+
+
+
 ul {list-style-type: none;
+	line-height: 30px;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333}
+    background-color: #333;
+    float: right;
+	}
     li {float: left;}
     li a {
     display: block;
@@ -28,5 +33,21 @@ ul {list-style-type: none;
     text-decoration: none;}
     li a:hover {
     background-color: #111;}
-#image {float: left;}
-#paragraph {float: left;}
+img {float: left;
+height: 200px;
+width: 200px;
+padding: 20px;}
+p {float: left;
+	padding: 20px;
+}
+
+article {margin: 20px;
+
+			height:500px;
+			width: 500px;
+			border: solid;
+			background-color:#bf80ff; 
+			 }
+aside { margin: 20px;
+	background-color:#bf80ff;
+	float: right  }
