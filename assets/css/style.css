@@ -83,13 +83,14 @@ img {
 
 
 #left {
-    width: 50%;
+    width: 66%;
 	float: left;
 }
 
 #right {
-    width: 30%;
+    width: 20%;
     float: left;
+
 }
 h2 {
 	width: 100%;
@@ -98,6 +99,12 @@ h2 {
 aside {
 	width: 100%;
 	float: left;
+}
+input {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0px;
+	box-sizing: border-box; 
 }
 
 
