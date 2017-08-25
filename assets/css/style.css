@@ -3,6 +3,10 @@ body {
     margin: 20px;
 }
 
+#content {
+	width: 100%;
+}
+
 section {
     background-color: #bf80ff;
     margin: 15px;
@@ -77,31 +81,22 @@ img {
     width: 80px;
 }
 
-p {
-    float: left;
-    padding: 20px;
-}
-
-article {
-    margin: 20px;
-    position: relative;
-    display: inline;
-    height: 500px;
-    width: 65%;
-    border: solid;
-}
 
 #left {
-    width: 650px;
-    float: left;
+    width: 50%;
+	float: left;
 }
 
 #right {
-    width: 270px;
+    width: 30%;
     float: left;
 }
+h2 {
+	width: 100%;
+	text-align: center;
+}
 aside {
-	display: inline; 
+	width: 100%;
 	float: left;
 }
 
