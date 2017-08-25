@@ -13,11 +13,12 @@ footer {
     position: static;
     display: block;
     width: 100%;
-
+    height: 80px;
     line-height: 50px;
 }
 
 #name {
+    line-height: 80px;
     color: white;
     background-color: #400080;
     font-size: 42px;
@@ -98,6 +99,10 @@ article {
 #right {
     width: 270px;
     float: left;
+}
+aside {
+	display: inline; 
+	float: left;
 }
 
 
