@@ -122,10 +122,11 @@ footer {
     margin-top: 20px;
 }
 div.gallery {
-    margin: 5px;
+    margin: 15px;
     border: 1px solid #ccc;
     float: left;
     width: 180px;
+    text-align: center;
 }
 
 div.gallery:hover {
@@ -137,11 +138,7 @@ div.gallery img {
     height: auto;
 }
 
-div.desc {
-    padding: 15px;
-    text-align: center;
-    float: left;
-}
+
 input[type=submit] 
 {
     background-color: #400080;
