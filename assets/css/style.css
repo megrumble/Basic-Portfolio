@@ -81,12 +81,16 @@ img {
 }
 
 #in {
-    height: 80px;
-    width: 80px;
+    height: 65px;
+    width: 65px;
 }
 #github {
-	height: 80px;
-	width: 80px;
+	height: 65px;
+	width: 65px;
+}
+#stackoverflow {
+	height: 65px;
+	width: 65px;
 }
 
 
